@@ -1,1 +1,1 @@
-# Path-Finder
+Finds the shortest path through the maze using BFS algorithm
